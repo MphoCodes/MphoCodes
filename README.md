@@ -20,8 +20,8 @@
 
 > ⚠️ *If you're seeing "Something went wrong!", try changing the theme in the URL, e.g., `theme=dark` or `theme=default`.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MphoNdlela\&show_icons=true\&theme=dark\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MphoNdlela\&layout=compact\&theme=dark\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MphoCodes\&show_icons=true\&theme=dark\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MphoCodes\&layout=compact\&theme=dark\&hide_border=true)
 
 </div>
 
