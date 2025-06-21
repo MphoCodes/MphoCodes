@@ -209,9 +209,7 @@
 
 <div align="center">
 
-🎓 **Cum Laude Graduate** - Bachelor of Computer and Information Sciences, 2024  
-🏆 **MTN Business App of the Year** - Finalist  
-🏅 **Varsity College** - Best Student Developer Award  
+🎓 **Cum Laude Graduate** - Bachelor of Computer and Information Sciences, 2024   
 💼 **MCN Digital** - Founder & Lead Developer  
 📍 **Johannesburg, South Africa** 🇿🇦
 
@@ -230,9 +228,7 @@
 ```
 🌍 SERVING CLIENTS ACROSS:
 ┌─────────────────────────────────────────┐
-│  🇿🇦 South Africa  │  🇳🇬 Nigeria        │
-│  🇬🇧 United Kingdom │  🇺🇸 United States  │
-│  🇦🇺 Australia      │  🇨🇦 Canada         │
+│         🇿🇦 South Africa                 │ 
 └─────────────────────────────────────────┘
 ```
 
@@ -300,17 +296,6 @@
 
 ---
 
-<div align="center">
-
-## 🎵 **CURRENTLY VIBING TO**
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mpho.ndlela)
-
-</div>
-
----
-
-<div align="center">
 
 ### 🙏 **THANK YOU FOR VISITING!**
 
