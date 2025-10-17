@@ -301,7 +301,6 @@
 
 ⭐ **Found something inspiring?** Give it a star and let's create digital magic together!
 
-*Made with 💜, ☕, and endless curiosity from Johannesburg*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer)
 
