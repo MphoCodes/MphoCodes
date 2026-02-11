@@ -1,150 +1,99 @@
 # Mpho Ndlela
 
-Full-Stack Engineer | Mobile & Backend Systems | Scalable Architecture  
+Full-Stack Engineer building scalable systems across mobile, web, and backend.
+
 Johannesburg, South Africa 🇿🇦
 
 ---
 
-## Overview
+I care about architecture.
 
-I am a full-stack engineer focused on building scalable, production-ready systems across mobile, web, and backend environments.
+Not just getting things working — but making sure they continue working when the system grows, when requirements change, and when other engineers join the codebase.
 
-My work spans Android applications, server-side architecture, database design, and cloud-integrated systems. I approach engineering from a systems perspective — emphasizing separation of concerns, modular design, performance, and long-term maintainability.
+I’ve worked across Android, backend services, databases, and web platforms. Most of what I build revolves around structured systems: clean layering, predictable state management, and clear separation between business logic and UI.
 
-I am particularly interested in building platforms that operate reliably at scale, where architectural decisions matter more than surface-level implementation.
+I like codebases that make sense six months later.
 
 ---
 
-## Technical Scope
+## What I Work With
 
-### Mobile Engineering
-
+Mobile:
 - Kotlin
 - Jetpack Compose
 - MVVM / MVI
 - Clean Architecture
-- Modular Android design
-- Structured concurrency with coroutines
-- State-driven UI systems
+- Coroutines & Flow
 
-Experience includes:
-- Dynamic screen rendering architectures
-- ViewModel-driven state modeling
-- Rotation-safe UI handling
-- Recomposition optimization
-- Domain-layer use case orchestration
-
----
-
-### Backend & API Systems
-
+Backend:
 - Node.js
 - Express
-- RESTful API design
-- Authentication & session management
-- JWT & secure cookie strategies
-- Repository pattern
-- DTO mapping
-- Database abstraction layers
-
-Focus areas:
-- Clear API contracts
-- Decoupled business logic
-- Idempotent request handling
-- Secure authentication flows
-- Scalable service structure
-
----
-
-### Databases & Data Modeling
-
 - PostgreSQL
 - MongoDB
-- Firebase
-- Relational schema design
-- Index optimization
-- Transaction handling
-- Data normalization vs denormalization strategies
+- REST APIs
+- Authentication systems
 
-I prioritize data integrity, performance, and predictable query behavior.
-
----
-
-### Web & Frontend Systems
-
+Frontend:
 - React
 - Next.js
 - Vue
 - TypeScript
-- Tailwind CSS
+- Tailwind
 
-Engineering emphasis:
-- Component isolation
-- State management discipline
-- API integration patterns
-- Performance optimization
-- SSR vs CSR tradeoffs
-- Clear folder architecture
-
----
-
-### Cloud & Infrastructure
-
+Cloud & Tooling:
 - AWS
 - Docker
-- CI/CD pipelines
+- CI/CD
 - GitHub Actions
-- Environment configuration management
-- Deployment workflows
-
-I focus on reproducible builds, controlled environments, and operational reliability.
 
 ---
 
-## Systems Thinking
+## The Kind of Problems I Enjoy
 
-I design software with these principles:
+- Designing modular mobile systems
+- Building dynamic UI flows driven by domain models
+- Structuring backend services so they don’t collapse under growth
+- Modeling data properly instead of patching it later
+- Aligning frontend and backend contracts cleanly
+- Reducing complexity through better boundaries
 
-- Business logic should not depend on frameworks.
-- State should have a single source of truth.
-- Modules should communicate through contracts, not assumptions.
-- Systems must evolve without structural rewrites.
-- Security should be designed, not patched.
-- Performance considerations begin at architecture level.
+I think a lot about:
 
----
-
-## Selected Project Domains
-
-- Healthcare platforms with structured appointment workflows
-- Logistics systems with booking and operational tracking
-- Infrastructure service platforms with real-time interactions
-- Mobile SDK-style modular flows
-- Full-stack booking and payment systems
-
-Across these domains, I have worked on:
-
-- End-to-end feature implementation
-- API consumption and integration
-- Domain-layer modeling
-- UI-state synchronization
-- Backend orchestration
-- Deployment and production hardening
+- State ownership
+- Idempotency
+- Concurrency safety
+- Recomposition control
+- Dependency direction
+- How to prevent rewrites
 
 ---
 
-## Current Direction
+## Projects I’ve Worked On
 
-- Deeper systems architecture
-- Advanced concurrency models
-- Scalable backend design
-- Cloud-native application structure
-- Platform engineering mindset
+- Mobile flows that dynamically render screens from structured models
+- Booking platforms with payment integration
+- Logistics systems with operational tracking
+- Healthcare portals with structured workflows
+- Full-stack platforms deployed end-to-end
+
+Most of my experience sits at the intersection of product and architecture — where decisions actually shape long-term velocity.
 
 ---
 
-## Contact
+## Where I’m Heading
+
+Becoming a stronger systems engineer.
+
+Going deeper into:
+- Platform design
+- Scalable backend architecture
+- Advanced mobile modularization
+- Cloud-native thinking
+- Cross-platform architectural alignment
+
+---
+
+If you’re interested in building serious systems, feel free to connect.
 
 LinkedIn: https://www.linkedin.com/in/mpho-ndlela/  
 Portfolio: https://mcn-digital.co.za/
-
