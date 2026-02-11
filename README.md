@@ -8,7 +8,7 @@ Johannesburg, South Africa 🇿🇦
 
 I care about architecture.
 
-Not just getting things working — but making sure they continue working when the system grows, when requirements change, and when other engineers join the codebase.
+Not just getting things working, but making sure they continue working when the system grows, when requirements change, and when other engineers join the codebase.
 
 I’ve worked across Android, backend services, databases, and web platforms. Most of what I build revolves around structured systems: clean layering, predictable state management, and clear separation between business logic and UI.
 
@@ -91,9 +91,6 @@ Going deeper into:
 - Cloud-native thinking
 - Cross-platform architectural alignment
 
----
-
-If you’re interested in building serious systems, feel free to connect.
 
 LinkedIn: https://www.linkedin.com/in/mpho-ndlela/  
 Portfolio: https://mcn-digital.co.za/
