@@ -181,40 +181,46 @@ Going deeper into:
 
 ## Optional Extras
 
-You can add any of these later if you want to push the README further:
-
 ### 1. Typing Header
 
-```html
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Architecture-Focused+Builder;Mobile%2C+Web%2C+Backend" />
 </p>
-```
+
+---
 
 ### 2. Snake Contribution Animation
 
-```markdown
 ![GitHub Snake Dark](https://raw.githubusercontent.com/MphoCodes/MphoCodes/output/github-contribution-grid-snake-dark.svg)
-```
+
+---
 
 ### 3. Collapsible Sections
 
-```html
 <details>
   <summary><strong>More about how I think</strong></summary>
   <br/>
-  <p>I care about boundaries, maintainability, system evolution, and reducing accidental complexity.</p>
+  <p>
+  I care about boundaries, maintainability, system evolution, and reducing accidental complexity.
+
+I prefer systems where responsibilities are obvious, data flows are predictable, and engineers can reason about behavior without digging through multiple layers of indirection.
+
+Good architecture is not about complexity — it is about clarity and longevity.
+
+  </p>
 </details>
-```
 
-### 4. Pinned Architecture Principles
+---
 
-```markdown
+### 4. Engineering Principles
+
 ## Engineering Principles
 
-- Prefer explicit boundaries over hidden coupling
-- Keep business logic out of the UI layer
-- Optimize for maintainability, not short-term hacks
-- Design systems that survive growth
-```
+* Prefer explicit boundaries over hidden coupling
+* Keep business logic out of the UI layer
+* Optimize for maintainability, not short-term hacks
+* Design systems that survive growth
+* Favor clear data flow over clever abstractions
+* Reduce accidental complexity wherever possible
 
+---
