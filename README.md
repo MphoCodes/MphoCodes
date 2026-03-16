@@ -34,6 +34,22 @@ Johannesburg, South Africa
 
 ---
 
+## Currently Working On
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  Building architecture driven Android systems using Kotlin, Jetpack Compose, and structured state flows.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Active%20Development-3DDC84?style=for-the-badge&logo=android" />
+</p>
+
+---
+
 # About
 
 I care about architecture.
@@ -169,4 +185,3 @@ This usually means focusing on clear boundaries, proper state ownership, and pre
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
-
