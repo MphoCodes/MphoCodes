@@ -1,9 +1,12 @@
 <div align="center">
 
-<h1>Mpho Ndlela</h1>
-<h3>Full-Stack Engineer</h3>
+# Mpho Ndlela
 
-<p>Building scalable systems across mobile, web, and backend — Johannesburg, South Africa</p>
+### Full‑Stack Engineer | Systems and Architecture
+
+Building software across mobile, web, and backend.
+
+Johannesburg, South Africa
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MphoCodes&style=for-the-badge" />
@@ -25,19 +28,25 @@
 
 ---
 
-## About Me
-
-I care about architecture.
-
-Not just getting things working, but making sure they continue working when the system grows, when requirements change, and when other engineers join the codebase.
-
-I've worked across Android, backend services, databases, and web platforms. Most of what I build revolves around structured systems: clean layering, predictable state management, and clear separation between business logic and UI.
-
-I like codebases that make sense six months later.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Architecture+Focused+Engineer;Building+Scalable+Systems;Mobile+Backend+Web" />
+</p>
 
 ---
 
-## GitHub Activity
+# About
+
+I care about architecture.
+
+Not just making something work, but making sure it still works when the system grows, when requirements change, and when new engineers join the codebase.
+
+I have worked across Android apps, backend services, databases, and web platforms. Most of the systems I build focus on clear structure. I prefer strong layering, predictable state management, and a clean separation between business logic and UI.
+
+The goal is simple. A codebase should still make sense six months later.
+
+---
+
+# GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MphoCodes&theme=github-dark&hide_border=true" />
@@ -58,19 +67,9 @@ I like codebases that make sense six months later.
 
 ---
 
-## Current Focus
+# Technologies
 
-* Mobile architecture and state management
-* Scalable backend platform design
-* Cloud-native infrastructure
-* Cross-platform system alignment
-* Clean, long-lived engineering systems
-
----
-
-## What I Work With
-
-**Mobile**
+## Mobile
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -78,12 +77,13 @@ I like codebases that make sense six months later.
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Coroutines_%26_Flow-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/MVVM%20%2F%20MVI-4285F4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-**Backend**
+## Backend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -91,12 +91,13 @@ I like codebases that make sense six months later.
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth_Systems-000000?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
-**Frontend**
+## Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -106,7 +107,7 @@ I like codebases that make sense six months later.
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-**Cloud & Tooling**
+## Cloud & Tooling
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -117,53 +118,45 @@ I like codebases that make sense six months later.
 
 ---
 
-## The Kind of Problems I Enjoy
+# Problems I Enjoy Solving
 
 * Designing modular mobile systems
-* Building dynamic UI flows driven by domain models
-* Structuring backend services so they don't collapse under growth
-* Modeling data properly instead of patching it later
-* Aligning frontend and backend contracts cleanly
+* Building UI flows driven by domain models
+* Structuring backend services that scale properly
+* Modeling data correctly instead of patching it later
+* Keeping frontend and backend contracts clear
 * Reducing complexity through better boundaries
 
-I think a lot about:
+---
 
-* State ownership
-* Idempotency
-* Concurrency safety
-* Recomposition control
-* Dependency direction
-* How to prevent rewrites
+# Engineering Principles
+
+* Prefer explicit boundaries over hidden coupling
+* Keep business logic out of the UI layer
+* Optimize for maintainability rather than short term speed
+* Build systems that survive growth
+* Favor predictable data flow
+* Avoid unnecessary complexity
 
 ---
 
-## Projects I've Worked On
+# Architecture Mindset
 
-* Mobile flows that dynamically render screens from structured models
-* Booking platforms with payment integration
-* Logistics systems with operational tracking
-* Healthcare portals with structured workflows
-* Full-stack platforms deployed end-to-end
+<details>
+<summary><strong>How I think about systems</strong></summary>
+<br/>
 
-Most of my experience sits at the intersection of product and architecture — where decisions actually shape long-term velocity.
+Good systems are defined by clarity.
 
----
+Data flow should be obvious. Responsibilities should be clear. Engineers should be able to understand behavior quickly without digging through multiple layers of code.
 
-## Where I'm Heading
+This usually means focusing on clear boundaries, proper state ownership, and predictable system behavior.
 
-Becoming a stronger systems engineer.
-
-Going deeper into:
-
-* Platform design
-* Scalable backend architecture
-* Advanced mobile modularization
-* Cloud-native thinking
-* Cross-platform architectural alignment
+</details>
 
 ---
 
-## Connect
+# Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mpho-ndlela/">
@@ -176,51 +169,4 @@ Going deeper into:
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
-
----
-
-## Optional Extras
-
-### 1. Typing Header
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Architecture-Focused+Builder;Mobile%2C+Web%2C+Backend" />
-</p>
-
----
-
-### 2. Snake Contribution Animation
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/MphoCodes/MphoCodes/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### 3. Collapsible Sections
-
-<details>
-  <summary><strong>More about how I think</strong></summary>
-  <br/>
-  <p>
-  I care about boundaries, maintainability, system evolution, and reducing accidental complexity.
-
-I prefer systems where responsibilities are obvious, data flows are predictable, and engineers can reason about behavior without digging through multiple layers of indirection.
-
-Good architecture is not about complexity — it is about clarity and longevity.
-
-  </p>
-</details>
-
----
-
-### 4. Engineering Principles
-
-## Engineering Principles
-
-* Prefer explicit boundaries over hidden coupling
-* Keep business logic out of the UI layer
-* Optimize for maintainability, not short-term hacks
-* Design systems that survive growth
-* Favor clear data flow over clever abstractions
-* Reduce accidental complexity wherever possible
-
----
+****
